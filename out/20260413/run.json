@@ -1,0 +1,62 @@
+[
+  {
+    "full_name": "NousResearch/hermes-agent",
+    "category": "LLM / Agent",
+    "trend_score": 7.1107,
+    "stars": 71246
+  },
+  {
+    "full_name": "multica-ai/multica",
+    "category": "Inference & Deployment",
+    "trend_score": 6.6617,
+    "stars": 9932
+  },
+  {
+    "full_name": "thedotmack/claude-mem",
+    "category": "RAG & Retrieval",
+    "trend_score": 6.4265,
+    "stars": 50910
+  },
+  {
+    "full_name": "coleam00/Archon",
+    "category": "LLM / Agent",
+    "trend_score": 5.6434,
+    "stars": 17269
+  },
+  {
+    "full_name": "rustfs/rustfs",
+    "category": "RAG & Retrieval",
+    "trend_score": 4.9084,
+    "stars": 25408
+  },
+  {
+    "full_name": "shanraisshan/claude-code-best-practice",
+    "category": "LLM / Agent",
+    "trend_score": 4.852,
+    "stars": 39751
+  },
+  {
+    "full_name": "OpenBMB/VoxCPM",
+    "category": "Training & Fine-tuning",
+    "trend_score": 4.472,
+    "stars": 11634
+  },
+  {
+    "full_name": "microsoft/markitdown",
+    "category": "Inference & Deployment",
+    "trend_score": 1.5589,
+    "stars": 105669
+  },
+  {
+    "full_name": "snarktank/ralph",
+    "category": "LLM / Agent",
+    "trend_score": 0.0143,
+    "stars": 16152
+  },
+  {
+    "full_name": "ahujasid/blender-mcp",
+    "category": "AI Applications",
+    "trend_score": 0.006,
+    "stars": 19240
+  }
+]
