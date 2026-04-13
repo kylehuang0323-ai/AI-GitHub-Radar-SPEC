@@ -67,7 +67,7 @@ def run_pipeline(cfg: Config, dry_run: bool = False) -> RunArtifact:
     # --- Output directory ---
     out_dir = cfg.output_dir / run_id
     out_dir.mkdir(parents=True, exist_ok=True)
-    site_dir = Path("site")
+    site_dir = Path("docs")
     site_dir.mkdir(parents=True, exist_ok=True)
 
     # --- State ---

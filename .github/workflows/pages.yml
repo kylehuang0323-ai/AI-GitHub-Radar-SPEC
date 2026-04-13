@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'site/**'
+      - 'docs/**'
 
 permissions:
   contents: read
@@ -31,7 +31,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'site'
+          path: 'docs'
 
       - name: Deploy to GitHub Pages
         id: deployment
